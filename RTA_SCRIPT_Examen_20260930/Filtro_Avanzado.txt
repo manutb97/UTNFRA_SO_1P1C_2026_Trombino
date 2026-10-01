@@ -1,0 +1,3 @@
+Mi IP Publica es: 2802:8010:1225:9200:19cc:fcba:fc66:6af4
+Mi usuario es: liveuser
+El URL de mi repositorio es: git@github.com:manutb97/UTNFRA_SO_1P1C_2026_Trombino.git
